@@ -33,4 +33,3 @@ volumes:
   postgres_data:
   build:
   public:
-  
